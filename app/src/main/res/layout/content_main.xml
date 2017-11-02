@@ -12,4 +12,19 @@
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/queryTextInputLaytout"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="@string/query_prompt"
+            android:imeOptions="actionNext"
+            android:singleLine="true" />
+    </android.support.design.widget.TextInputLayout>
 </RelativeLayout>

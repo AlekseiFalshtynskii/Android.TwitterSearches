@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Twitter Searches</string>
+    <string name="query_prompt">Введите запрос Twitter сюда</string>
+    <string name="tag_prompt">Тэг вашего запроса</string>
+    <string name="save_description">Нажмите кнопку для сохранения запроса</string>
+    <string name="tagged_searches">Таргетированные запросы</string>
+    <string name="search_URL">http://mobile.twitter.com/search?q=</string>
+    <string name="share_edit_delete_title">Поделитесь, отредактируйте или удалите запрос \"%s\"</string>
+    <string name="cancel">Отмена</string>
+    <string name="share_subject">Twitter поиск, который может вас заинтересовать</string>
+    <string name="share_message">Посмотрите результаты этого запроса Twitter: %s</string>
+    <string name="share_search">Поделиться поиском:</string>
+    <string name="confirm_message">Вы точно хотите удалить запрос \"%s\"?</string>
+    <string name="delete">Удалить</string>
+</resources>
