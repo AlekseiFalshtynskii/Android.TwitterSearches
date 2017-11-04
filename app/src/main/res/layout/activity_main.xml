@@ -29,8 +29,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="top|end"
         android:layout_marginEnd="@dimen/fab_margin"
-        android:layout_marginTop="@dimen/fab_margin"
-        android:src="@drawable/ic_save_24dp"
-        android:contentDescription="@string/save_description" />
+        android:layout_marginTop="@dimen/fab_margin_top"
+        android:contentDescription="@string/save_description"
+        android:src="@drawable/ic_save_24dp" />
 
 </android.support.design.widget.CoordinatorLayout>
